@@ -20,13 +20,6 @@ flowchart LR
     C --> D[🎙️ Voice Cloning via OpenVoice]
     D --> E[🎧 Final Personalized Audiobook]
 
-📂 Repository Structure
-📦 GenAI-PDF-Audiobook
- ┣ 📜 README.md
- ┣ 📓 notebook.ipynb     # Full Google Colab notebook
- ┣ 📂 assets             # Sample configs / checkpoints
- ┗ 📂 outputs            # Final generated audios
-
 ⚡ Quick Start
 
 Clone Repository
